@@ -1,0 +1,10 @@
+div,#qwe,.qwe
+{
+    font-size:100px;
+}
+#qwe{
+    color: aqua;
+}
+.qwe{
+color: darkorange;
+}
